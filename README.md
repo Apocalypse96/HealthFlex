@@ -1,4 +1,4 @@
-## Comments Section with Dark Mode and Animations
+## Comments Section
 
 This project is a dynamic comments section built with React, featuring:
 
@@ -26,7 +26,7 @@ This project is a dynamic comments section built with React, featuring:
 
    ```bash
    git clone https://github.com/Apocalypse96/HealthFlex.git
-   cd comments-section
+   cd Healthflix
    ```
 
 2. **Install dependencies:**
