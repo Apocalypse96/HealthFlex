@@ -25,7 +25,7 @@ This project is a dynamic comments section built with React, featuring:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://your-username/comments-section.git](https://github.com/Apocalypse96/HealthFlex.git
+   git clone https://github.com/Apocalypse96/HealthFlex.git
    cd comments-section
    ```
 
