@@ -26,7 +26,7 @@ This project is a dynamic comments section built with React, featuring:
 
    ```bash
    git clone https://github.com/Apocalypse96/HealthFlex.git
-   cd Healthflix
+   cd HealthFlex
    ```
 
 2. **Install dependencies:**
